@@ -1,2 +1,2 @@
-### End to End AI Project
+### End to End Agentic AI Project
 ### Project Name: AgenticChatbot
