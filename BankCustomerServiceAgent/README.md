@@ -11,4 +11,4 @@ Tech Stack: LangChain, LangGraph, Mem0 (for memory), Vector Store
 
 Issues:
 
-Contact: Venkat Anampudi (venkat.anampudi@outlook.com)
+Contact: Venkat Anampudi (venkat.anampudi@gmail.com)
